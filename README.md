@@ -16,4 +16,5 @@ http://localhost:8080
 ## Expected Output
 A custom NGINX page:
 > Welcome to My DevOps World 🚀
+<img width="1440" alt="Screenshot 2025-04-10 at 3 04 41 PM" src="https://github.com/user-attachments/assets/aebcebbe-ea65-4b12-a01d-3599bc43acef" />
 
